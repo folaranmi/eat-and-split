@@ -8,4 +8,4 @@ This project speaks well to the client's state management, reusable components a
 
 ### Project URL
 
-This section has moved here: [https://eat-and-split-rouge.vercel.app/](https://eat-and-split-rouge.vercel.app/)
+project link: [https://eat-and-split-rouge.vercel.app/](https://eat-and-split-rouge.vercel.app/)
